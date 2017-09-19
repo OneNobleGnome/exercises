@@ -1,4 +1,5 @@
 # Programming Exercise 2-1
+
 # 
 # Program to display one person's contact information.
 # This program needs no input
@@ -19,7 +20,11 @@
 
 # display the course area
 
-
+print("Jacob Ryan Steinman")
+print("611 Orange St.")
+print("Tipton, IA 527772")
+print("563-249-6865")
+print("CIS 121")
 
 
 
