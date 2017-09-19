@@ -7,24 +7,21 @@
 # It will display the name and contact information for a teacher.
 
 # display the full name
-
+name = ("Jacob Ryan Steinman")
 
 # display the address
-
+address = ("611 Orange St.")
 
 # display the city, state and zip
-
+address2 = ("Tipton, IA 52772")
 
 # display the phone number
-
+phone = ("563-249-6865")
 
 # display the course area
-
-print("Jacob Ryan Steinman")
-print("611 Orange St.")
-print("Tipton, IA 527772")
-print("563-249-6865")
-print("CIS 121")
-
-
-
+course = ("CIS-121")
+print(name)
+print(address)
+print(address2)
+print(phone)
+print(course)
