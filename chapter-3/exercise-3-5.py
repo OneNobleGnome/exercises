@@ -8,13 +8,15 @@
 
 
 # Global constants for minimum, maximum and mass multiplier values
-
+MIN_MASS = 0
+MAX_MASS = 0
 
 # Variables for weight and mass initialized as floats   
-
+weight = float(0)
+mass = float(0)
 
 # Get mass from user and convert it to a float
-
+mass = float(input("Enter Mass"))
 
 # Calculate weight using the mass multiplier constant
 
