@@ -5,8 +5,16 @@
 # and totals them up,
 # then displays the total entered on the screen.
 
+int_1 = input("enter an int to sum:   ")
+int_2 = input("enter an int to sum:   ")
+int_3 = input("enter an int to sum:   ")
+int_4 = input("enter an int to sum:   ")
+int_5 = input("enter an int to sum:   ")
+
 # Initialize variables for bugs collected and total bugs.
 # be sure to initialize them as integers
+
+
 
 
 # Get the number of bugs collected from the user

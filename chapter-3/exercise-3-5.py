@@ -8,8 +8,9 @@
 
 
 # Global constants for minimum, maximum and mass multiplier values
-MIN_MASS = 0
-MAX_MASS = 0
+MIN_MASS = 9.81
+MAX_MASS = 10.00
+MASS_MULTI = 9.81
 
 # Variables for weight and mass initialized as floats   
 weight = float(0)
@@ -19,12 +20,13 @@ mass = float(0)
 mass = float(input("Enter Mass"))
 
 # Calculate weight using the mass multiplier constant
-
+weight = mass * MASS_MULTI
 
 # Display the weight
-
+print("weight")
 # If weight > maximum or < than minimum display an appropriate message
-
+if weight>MAX_MASS or weight<MIN_MASS:
+    print("weight is less than min mass or greater than max")
 
 
 

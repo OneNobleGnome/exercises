@@ -20,12 +20,12 @@ phone = ("563-249-6865")
 
 # display the course area
 course = ("CIS-121")
-def print_address(name,address,address2,phone,course):
-	print(name)
-	print(address)
-	print(address2)
-	print(phone)
-	print(course)
+#def print_address(name,address,address2,phone,course):
+print(name)
+print(address)
+print(address2)
+print(phone)
+print(course)
 
-print_address()
+#print_address()
 
