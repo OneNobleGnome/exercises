@@ -6,9 +6,10 @@
 # then displays each line with its line number before closing the file.
 
 # define the main function
-
+def main()
     # Define local variables for line and filename (strings) and counter (int)
-
+    
+    
     
     # Prompt the user for a file name
 
